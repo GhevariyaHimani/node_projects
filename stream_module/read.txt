@@ -1,0 +1,4 @@
+On a read stream, we want to listen to ‘data’ events. 
+So, basically whenever a data event is raised, a small chunk of data is passed to the callback function.
+Another important readStream event is ‘end’ , which is raised when the stream has finished reading.
+When we encounter any error while handling the data etc, an ‘error’ event is emitted, with an error object.

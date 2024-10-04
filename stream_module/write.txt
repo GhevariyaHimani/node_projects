@@ -1,0 +1,1 @@
+hello add text by createWriteStream
