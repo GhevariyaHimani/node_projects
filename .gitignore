@@ -1,1 +1,4 @@
 api/node_modules
+express-project mycontacts-backend/.env
+express-project mycontacts-backend/node_modules
+rest_api/node_modules

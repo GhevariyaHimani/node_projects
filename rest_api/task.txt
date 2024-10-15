@@ -1,0 +1,17 @@
+rest api - json 
+
+get /users - HTML document Render - done
+get /api/users - list all users in json - done
+get /api/users/1 - get the user with id 1 - done
+get /api/users/2 - get the user with id 1 - done
+
+dynamic way
+: means dynamically 
+get /api/users/:id
+:id -> variable
+
+post /api/users - creat new user    
+
+patch /api/users/1 - edit the user with id 1
+
+delete /api/users/1 - delete the user with id 2
